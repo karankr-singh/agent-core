@@ -1,0 +1,98 @@
+[
+  {
+    "goal": "Run stable aligned agent",
+    "interval": 86400,
+    "last_run": 1768639158.8564095,
+    "created_at": "2026-01-17T08:37:44.478859"
+  },
+  {
+    "goal": "Run stable aligned agent",
+    "interval": 86400,
+    "last_run": 1768639158.879271,
+    "created_at": "2026-01-17T08:39:18.833773"
+  },
+  {
+    "goal": "Run stable aligned agent",
+    "interval": 86400,
+    "last_run": 1768639168.7823417,
+    "created_at": "2026-01-17T08:39:28.757510"
+  },
+  {
+    "goal": "Run stable aligned agent",
+    "interval": 86400,
+    "last_run": 1768640305.8275874,
+    "created_at": "2026-01-17T08:58:25.797976"
+  },
+  {
+    "goal": "Write a short summary about AI agents",
+    "interval": 1,
+    "last_run": 1768643520.3853338,
+    "created_at": "2026-01-17T09:04:44.413600"
+  },
+  {
+    "goal": "Write a short summary about AI agents",
+    "interval": 1,
+    "last_run": 1768643520.7199385,
+    "created_at": "2026-01-17T09:14:49.600090"
+  },
+  {
+    "goal": "Write a short summary about AI agents",
+    "interval": 1,
+    "last_run": 1768643521.057707,
+    "created_at": "2026-01-17T09:19:38.443342"
+  },
+  {
+    "goal": "Write a short summary about AI agents",
+    "interval": 1,
+    "last_run": 1768643521.4010484,
+    "created_at": "2026-01-17T09:20:02.696584"
+  },
+  {
+    "goal": "Write a short summary about AI agents",
+    "interval": 1,
+    "last_run": 1768643521.753273,
+    "created_at": "2026-01-17T09:20:42.651192"
+  },
+  {
+    "goal": "Write a short summary about AI agents",
+    "interval": 1,
+    "last_run": 1768643522.1400998,
+    "created_at": "2026-01-17T09:22:30.872412"
+  },
+  {
+    "goal": "Write a short summary about AI agents",
+    "interval": 1,
+    "last_run": 1768643522.506182,
+    "created_at": "2026-01-17T09:24:12.574054"
+  },
+  {
+    "goal": "Write a short summary about AI agents",
+    "interval": 1,
+    "last_run": 1768643522.870248,
+    "created_at": "2026-01-17T09:24:41.564632"
+  },
+  {
+    "goal": "Write a short structured summary about AI agents in 5 bullet points",
+    "interval": 0,
+    "last_run": 1768643523.242349,
+    "created_at": "2026-01-17T09:27:47.120710"
+  },
+  {
+    "goal": "Write a short structured summary about AI agents in 5 bullet points",
+    "interval": 0,
+    "last_run": 1768643523.6200995,
+    "created_at": "2026-01-17T09:28:26.725173"
+  },
+  {
+    "goal": "Run stable aligned agent",
+    "interval": 86400,
+    "last_run": 1768643349.4641523,
+    "created_at": "2026-01-17T09:49:05.990786"
+  },
+  {
+    "goal": "Run stable aligned agent",
+    "interval": 86400,
+    "last_run": 1768643524.1665645,
+    "created_at": "2026-01-17T09:52:00.061097"
+  }
+]

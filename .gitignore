@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data (optional – see note below)
+# Uncomment if you DON'T want to track memory
+# memory.json
+# long_term_memory.json
+# vector_memory.json
+# reputation.json
+# schedule.json

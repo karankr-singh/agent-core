@@ -1,0 +1,5198 @@
+{
+  "goal": "Run stable aligned agent",
+  "history": [
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.499621"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.501533"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.503683"
+    },
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.508291"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.510456"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.513806"
+    },
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.516506"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.518389"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.522006"
+    },
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.527188"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.529686"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.532579"
+    },
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.537693"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.542030"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:55:49.544996"
+    },
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.386571"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.391330"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.398033"
+    },
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.401489"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.403663"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.407421"
+    },
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.411108"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.413896"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.417166"
+    },
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.420575"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.424141"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.430277"
+    },
+    {
+      "type": "plan",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.433713"
+    },
+    {
+      "type": "action",
+      "content": "Processed thought: CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.436202"
+    },
+    {
+      "type": "reflection",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T07:57:00.443278"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:37:44.482418"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.837884"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.840647"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.843601"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.846414"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.849183"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.852841"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.859915"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.862964"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.865927"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.869678"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.872411"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:18.875729"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:28.762071"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:28.765595"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:28.768789"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:28.772049"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:28.775455"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:39:28.778891"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:58:25.803131"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:58:25.807055"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:58:25.810915"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:58:25.815651"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:58:25.819546"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T08:58:25.823392"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:04:44.419183"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:04:44.423750"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:04:44.428213"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:04:44.432712"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:04:44.437463"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:04:44.442015"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.607282"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.613268"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.619212"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.624541"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.631261"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.636668"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.647651"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.653270"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.658450"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.664429"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.670035"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:14:49.676621"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.449375"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.454867"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.460891"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.466733"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.472332"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.478442"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.489185"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.495432"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.501344"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.507367"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.513381"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.519588"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.532228"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.538561"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.545700"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.552135"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.558870"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:19:38.565505"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.703390"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.710683"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.717529"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.724446"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.731727"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.738815"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.752996"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.760500"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.767728"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.775750"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.783706"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.793053"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.807792"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.815445"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.823128"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.831051"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.839429"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.847374"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.863444"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.871698"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.880584"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.889266"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.898227"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:02.907021"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.660117"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.669227"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.678243"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.687119"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.696189"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.705304"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.722700"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.732504"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.742278"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.751853"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.761397"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.771262"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.788861"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.798965"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.809373"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.819664"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.829490"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.839631"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.858710"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.869551"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.879596"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.889641"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.900085"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.910047"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.929494"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.940059"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.951021"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.961758"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.972391"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:20:42.983573"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.883671"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.895531"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.906951"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.918719"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.930531"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.942312"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.962898"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.974665"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.985926"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:30.997767"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.011599"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.024165"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.047989"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.060549"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.072956"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.085621"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.098926"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.111562"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.135456"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.148242"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.160751"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.173879"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.187091"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.200428"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.225795"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.238595"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.253858"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.266969"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.280518"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.296942"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.324089"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.337666"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.351344"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.365360"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.379137"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:22:31.392415"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.586459"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.600211"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.614028"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.628631"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.642827"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.657143"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.683591"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.697651"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.711948"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.727146"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.742040"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.756715"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.784277"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.799080"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.818853"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.834013"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.849618"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.865122"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.896830"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.912321"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.929516"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.944935"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.960992"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:12.976552"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.007274"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.024370"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.041865"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.057604"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.073984"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.089983"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.119346"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.135492"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.152087"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.168561"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.185257"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.201893"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.232418"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.249264"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.266377"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.283134"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.299762"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:13.316726"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.579061"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.596445"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.614466"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.637121"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.653954"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.670835"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.702323"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.719724"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.736856"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.755517"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.772787"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.790055"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.822240"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.839613"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.857116"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.874572"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.892539"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.910308"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.943186"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.961172"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.979229"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:41.997391"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.016433"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.035528"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.068889"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.087148"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.105632"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.124376"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.142995"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.161771"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.200570"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.221073"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.240314"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.259689"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.279452"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.298947"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.334705"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.353993"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.373907"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.393544"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.414479"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.440285"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.475945"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.495351"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.515100"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.534964"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.555164"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:24:42.576035"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.138045"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.159415"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.179412"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.200256"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.221298"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.242167"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.287099"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.308654"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.329242"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.350488"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.371765"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.392767"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.431873"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.453374"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.475094"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.496567"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.518611"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.541066"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.588107"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.610130"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.631721"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.653649"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.677459"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.703007"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.746538"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.769425"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.792512"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.815332"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.837966"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.860610"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.902075"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.924958"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.947868"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.970776"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:47.993969"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.016877"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.059514"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.100244"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.126557"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.149613"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.172940"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.196381"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.239462"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.264028"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.287885"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.312683"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.337044"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.361685"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.411942"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.436819"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.460653"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.484689"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.511835"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:27:48.535952"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.747218"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.771324"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.795576"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.819764"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.844605"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.869514"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.914606"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.940081"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.964841"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:26.989677"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.014607"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.039251"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.095252"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.120773"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.146776"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.177176"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.203238"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.228889"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.276049"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.302013"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.328423"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.360828"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.388041"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.414097"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.460547"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.486668"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.512777"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.538547"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.564964"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.592624"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.651645"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.678396"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.705257"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.732611"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.759963"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.786748"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.835110"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.862949"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.890941"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.919282"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.946495"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:27.973862"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.023066"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.050462"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.077915"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.119992"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.147712"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.175775"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.225932"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.254274"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.282445"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.312115"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.341177"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.369190"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.420361"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.449042"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.477712"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.506841"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.535368"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:28:28.563887"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.015273"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.026456"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.055704"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.066935"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.096474"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.107840"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.136288"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.147406"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.176272"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.187551"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.216725"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.228019"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.280742"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.291890"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.320813"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.332223"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.362496"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.374950"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.406761"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.418271"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.448318"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.460387"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.490093"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.501697"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.555954"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.567676"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.597598"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.609134"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.638397"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.649875"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.680534"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.692280"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.722702"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.734233"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.770875"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.782621"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.837716"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.849689"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.880271"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.891989"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.923677"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.935525"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:06.966416"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:06.978818"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.011155"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.023169"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.053151"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.065056"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.121754"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.133851"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.164973"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.176974"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.208409"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.220384"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.251163"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.263382"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.294431"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.306738"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.337805"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.362878"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.420832"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.433006"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.464910"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.477307"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.509771"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.521921"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.553049"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.565289"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.596620"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.609096"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.641850"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.654636"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.716188"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.729267"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.760750"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.773761"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.806743"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.819339"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.855578"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.870388"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.903799"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.916835"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:07.949715"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:07.963053"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.024528"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.037556"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.070113"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.083151"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.119440"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.132528"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.166036"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.179112"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.212107"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.225056"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.258103"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.271006"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.330376"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.343251"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.386927"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.400059"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.434580"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.449192"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.483465"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.496660"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.537754"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.551661"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.585705"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.599184"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.675599"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.690255"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.724874"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.743609"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.782600"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.796608"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:08.833012"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:08.847724"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:09.007269"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:09.022763"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:09.085953"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:09.102345"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:09.169650"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:09.187020"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:09.220637"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:09.234215"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:09.268468"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:09.282075"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:09.315648"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:09.329186"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:09.366343"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:09.380407"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:49:09.414535"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:49:09.428573"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.091184"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.105101"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.139537"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.153485"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.188916"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.202965"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.239236"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.253272"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.287592"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.301732"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.336859"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.350748"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.414813"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.428909"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.466311"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.480603"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.517081"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.531324"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.566931"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.580945"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.616353"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.630490"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.667712"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.683927"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.751543"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.766500"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.801879"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.816137"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.851437"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.865826"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.901449"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.916034"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:00.954487"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:00.969191"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.005598"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.021240"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.088740"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.103130"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.139837"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.156636"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.193070"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.208346"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.246615"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.262012"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.299349"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.314115"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.350345"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.365281"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.438806"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.453776"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.490967"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.505948"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.543168"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.558215"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.595361"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.610425"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.648342"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.663372"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.700496"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.716231"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.791682"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.807409"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.845001"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.860341"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.898496"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.914313"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:01.954105"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:01.970235"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.009655"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.026941"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.064900"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.081605"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.174456"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.189870"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.229730"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.245511"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.284608"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.301254"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.340046"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.357752"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.395938"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.412548"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.451870"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.467642"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.539381"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.556191"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.597709"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.613484"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.651817"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.667352"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.706506"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.722374"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.761418"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.777619"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.815823"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.831697"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.904585"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.922669"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:02.963901"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:02.979882"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.019826"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.035734"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.074747"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.090892"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.130574"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.146919"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.186613"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.203011"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.276325"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.293682"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.332834"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.349122"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.389083"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.405464"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.445734"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.462389"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.503416"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.520207"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.560522"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.577340"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.660711"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.677654"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.718416"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.735644"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.778184"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.795311"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:03.837763"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:03.966401"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:04.029535"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:04.050333"
+    },
+    {
+      "type": "execution",
+      "content": {
+        "instruction": "CONTINUE",
+        "decision": "CONTINUE",
+        "result": "Execution failed: Expecting value: line 1 column 1 (char 0)"
+      },
+      "timestamp": "2026-01-17T09:52:04.103876"
+    },
+    {
+      "type": "critic_feedback",
+      "content": "CONTINUE",
+      "timestamp": "2026-01-17T09:52:04.125422"
+    }
+  ]
+}

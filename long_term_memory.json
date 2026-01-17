@@ -1,0 +1,3890 @@
+[
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.839309"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.839913"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.842056"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.842687"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.844707"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.845507"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.847541"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.848407"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.850718"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.851391"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.854379"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.855086"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.861281"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.862052"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.864233"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.864917"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.867805"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.868706"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.870956"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.871624"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.873665"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.874359"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.877458"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:18.878331"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.763557"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.764376"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.767010"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.767793"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.770185"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.771000"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.773442"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.774470"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.776938"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.777826"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.780347"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:39:28.781322"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.804769"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.805943"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.808656"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.809707"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.812515"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.813608"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.817310"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.818387"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.821158"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.822129"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.825157"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T08:58:25.826445"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.421221"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.422339"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.425487"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.426517"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.430041"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.431290"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.434536"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.435905"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.439289"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.440421"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.443890"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:04:44.445323"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.609908"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.611498"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.615407"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.616787"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.621532"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.622843"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.628038"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.629482"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.633309"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.634941"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.638888"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.640463"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.649978"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.651516"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.655378"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.656727"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.660597"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.662465"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.667001"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.668464"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.672283"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.674036"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.679012"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:14:49.680606"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.451578"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.453034"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.457185"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.458820"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.463300"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.464771"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.469021"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.470484"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.474667"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.476205"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.480802"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.482308"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.491495"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.493500"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.497848"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.499426"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.503824"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.505426"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.509962"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.511590"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.515824"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.517422"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.522265"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.524064"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.534788"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.536493"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.541761"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.543545"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.548317"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.550066"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.554731"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.556610"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.561549"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.563393"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.568233"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:19:38.570033"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.706101"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.708262"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.713476"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.715324"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.720255"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.722094"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.727195"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.729078"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.734582"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.736505"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.742247"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.744231"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.756179"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.758214"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.763427"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.765413"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.770629"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.773103"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.778919"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.780981"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.787661"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.790428"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.796148"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.798265"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.810828"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.812929"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.818619"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.820794"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.826426"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.828570"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.834159"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.836676"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.842643"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.844863"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.851081"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.853400"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.866848"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.869089"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.874986"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.877218"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.883969"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.886242"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.892638"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.894962"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.901743"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.904172"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.910441"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:02.913012"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.663751"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.666279"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.672662"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.675049"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.681749"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.684165"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.690583"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.693429"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.699690"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.702146"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.709232"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.711786"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.726725"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.729258"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.736183"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.738753"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.745958"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.748518"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.755802"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.758450"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.765066"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.767688"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.774978"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.777642"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.792882"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.795908"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.803192"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.805931"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.813125"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.815816"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.823619"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.826405"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.833340"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.836397"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.843826"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.846586"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.862647"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.865752"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.873575"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.876379"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.883588"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.886467"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.893842"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.896990"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.904098"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.906983"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.914159"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.917125"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.933655"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.936618"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.944349"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.947342"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.955176"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.958503"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.965962"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.968927"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.976942"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.980035"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.987853"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:20:42.991441"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.888324"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.891929"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.899911"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.903092"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.911589"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.915128"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.923526"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.926872"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.935026"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.938439"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.946745"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.950062"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.967563"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.970964"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.979080"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.982415"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.990385"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:30.993724"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.002787"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.007123"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.016445"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.020200"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.029371"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.033241"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.052729"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.056341"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.065637"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.069119"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.078144"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.081818"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.090639"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.094821"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.103741"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.107502"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.116436"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.120040"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.140599"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.144211"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.153010"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.156691"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.165587"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.169491"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.178848"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.182400"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.192216"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.195905"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.205860"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.210063"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.230715"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.234391"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.245708"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.249643"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.258950"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.262667"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.271931"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.276029"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.285667"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.289779"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.304674"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.308532"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.329407"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.333163"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.343169"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.347086"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.356615"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.360898"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.370525"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.374798"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.384292"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.388122"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.397695"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:22:31.401526"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.591887"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.595857"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.605602"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.609895"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.619273"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.623953"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.634024"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.637921"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.648162"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.652116"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.662768"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.666815"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.689111"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.693277"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.703322"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.707478"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.717733"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.721829"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.733057"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.737324"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.747596"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.752047"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.762551"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.767709"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.789908"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.794238"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.804736"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.809177"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.824636"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.829163"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.840029"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.844793"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.855434"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.860489"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.871461"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.878637"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.902579"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.907452"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.918311"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.923279"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.935447"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.940057"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.950781"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.955309"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.967083"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.971438"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.982417"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:12.988183"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.013962"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.018754"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.030857"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.036656"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.048022"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.052546"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.064049"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.068780"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.080254"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.084787"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.096608"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.101206"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.125527"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.130361"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.142188"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.147131"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.158507"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.163514"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.175278"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.180209"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.192165"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.196961"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.208523"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.213308"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.238719"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.244040"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.256113"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.261077"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.272830"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.277816"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.289573"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.294477"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.306273"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.311276"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.323336"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:13.328677"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.585642"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.590488"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.604053"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.608905"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.626717"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.631796"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.643594"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.648596"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.660556"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.665554"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.677670"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.682577"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.709109"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.714185"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.726488"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.731553"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.744580"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.749653"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.762326"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.767358"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.779565"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.784595"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.796742"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.802047"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.829185"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.834337"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.846382"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.851622"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.863853"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.868996"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.881444"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.886493"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.899487"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.904706"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.917255"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.922465"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.950109"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.955300"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.968053"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.973411"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.986286"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:41.991613"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.004388"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.010696"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.024113"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.029529"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.042682"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.048003"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.075853"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.081172"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.094156"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.099468"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.112854"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.118257"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.131843"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.137234"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.150470"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.155971"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.169101"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.174634"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.208215"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.215058"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.228495"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.234036"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.247979"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.253467"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.267171"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.272724"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.286795"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.293006"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.306599"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.312269"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.342189"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.347837"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.361482"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.367533"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.381419"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.387205"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.401633"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.407966"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.427906"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.433825"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.448087"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.453808"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.483595"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.489307"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.502865"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.508728"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.522843"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.528697"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.542963"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.548753"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.563533"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.569393"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.583891"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:24:42.589754"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.146085"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.152044"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.167198"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.173256"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.187426"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.193897"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.208477"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.214455"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.229361"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.235373"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.250113"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.256267"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.295637"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.302258"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.316646"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.322605"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.337592"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.343881"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.358492"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.364832"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.379927"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.386061"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.400935"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.407076"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.440388"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.446885"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.461698"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.467941"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.483348"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.489727"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.505056"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.511426"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.526997"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.533276"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.549435"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.556845"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.596739"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.603232"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.618605"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.624946"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.640165"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.646661"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.662992"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.670456"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.686396"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.693650"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.713064"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.720076"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.755178"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.762443"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.778568"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.785069"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.801014"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.807665"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.824169"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.830782"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.846787"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.853402"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.869624"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.876458"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.911428"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.918100"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.933620"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.940422"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.956593"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.963548"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.980069"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:47.986725"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.002777"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.009911"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.025815"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.032606"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.074037"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.092900"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.112219"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.119458"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.135708"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.142533"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.158450"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.165581"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.182052"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.189022"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.205380"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.212814"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.249395"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.256400"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.273076"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.280567"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.297828"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.304786"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.321794"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.329518"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.346454"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.353400"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.377740"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.384837"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.421345"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.428468"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.446065"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.453141"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.469886"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.477394"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.493922"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.502646"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.521024"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.528625"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.545574"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:27:48.552601"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.756511"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.763710"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.780711"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.787895"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.804904"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.812297"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.829196"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.836338"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.854054"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.861606"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.879153"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.886521"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.924542"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.931834"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.949659"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.957007"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.974471"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.981978"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:26.999345"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.006755"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.024177"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.031566"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.048846"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.056133"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.104822"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.112626"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.131242"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.138820"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.159507"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.169450"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.187057"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.194597"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.213058"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.220720"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.238721"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.246412"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.286085"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.293960"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.312377"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.319978"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.338910"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.348129"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.371437"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.379292"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.397994"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.405915"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.424170"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.431788"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.470639"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.478595"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.496676"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.504309"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.522858"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.530595"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.548842"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.556549"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.575510"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.584075"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.610254"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.622256"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.662188"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.670112"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.688921"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.696732"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.715645"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.723881"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.742836"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.751228"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.770192"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.778564"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.796986"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.805156"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.846005"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.854005"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.874261"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.882220"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.901367"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.910809"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.929638"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.938030"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.957308"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.965592"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.984501"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:27.992505"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.033634"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.041925"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.061045"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.069123"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.102720"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.111261"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.130807"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.139123"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.158556"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.166788"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.186408"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.194512"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.236458"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.244707"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.265227"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.273404"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.293220"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.301578"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.323260"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.332332"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.351871"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.360430"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.380281"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.388710"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.431168"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.439635"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.459888"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.468336"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.488811"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.497450"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.518010"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.526459"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.546564"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.554972"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.575087"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:28:28.583828"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.038091"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.046686"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.078450"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.087035"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.118829"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.127461"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.158930"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.167431"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.198819"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.207663"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.240042"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.248947"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.302993"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.311479"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.344064"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.353258"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.387185"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.396274"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.430435"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.439286"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.472320"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.480987"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.513036"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.521958"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.579373"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.588072"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.620793"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.629513"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.661631"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.670786"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.704327"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.713258"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.752703"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.761525"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.794379"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.803544"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.861986"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.870802"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.905226"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.914302"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.947675"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.956743"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:06.991526"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.000920"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.035105"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.044048"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.077474"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.086613"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.146214"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.155124"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.189371"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.198680"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.232651"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.241842"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.275822"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.284852"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.319328"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.328342"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.375633"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.385410"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.445766"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.454898"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.489929"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.500072"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.534432"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.543641"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.577930"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.587238"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.621795"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.631066"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.669866"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.679355"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.741681"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.751069"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.786474"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.795780"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.832480"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.844141"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.883202"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.893145"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.930019"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.939665"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.975684"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:07.985628"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.050662"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.060123"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.096150"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.109280"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.145884"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.155607"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.192314"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.202009"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.238445"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.248002"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.283941"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.293390"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.357133"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.376332"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.413080"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.423292"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.462852"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.473062"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.512342"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.527048"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.565188"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.575139"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.617688"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.629539"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.704524"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.714779"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.757426"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.771821"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.810394"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.820304"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.862410"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:08.990356"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.056468"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.071559"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.119546"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.131037"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.200549"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.210408"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.248272"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.258351"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.295709"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.305432"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.343880"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.355555"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.394275"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.404471"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.443099"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:49:09.453796"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.119227"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.129116"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.167944"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.177981"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.217403"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.228388"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.267227"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.277220"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.316047"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.326046"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.365041"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.375236"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.445068"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.455438"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.495303"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.505810"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.545762"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.555910"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.595382"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.605673"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.644891"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.656056"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.698831"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.709504"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.780984"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.791317"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.830499"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.840708"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.880456"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.890778"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.932387"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.943401"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.984255"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:00.994496"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.036191"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.047246"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.118107"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.128414"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.171462"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.181908"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.224479"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.235199"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.277711"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.288184"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.329118"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.339690"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.380068"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.390630"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.469042"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.479404"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.521390"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.531850"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.573412"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.584186"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.625790"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.636276"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.678893"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.689506"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.731526"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.742674"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.822777"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.834033"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.876310"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.886998"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.931732"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.942635"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.986031"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:01.996653"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.042409"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.053580"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.112677"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.128444"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.207194"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.218175"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.261628"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.273487"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.317957"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.328871"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.373388"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.384404"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.429348"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.440542"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.483678"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.494752"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.571947"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.586335"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.629317"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.640294"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.683338"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.694452"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.738664"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.749686"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.793491"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.804573"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.847816"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.858832"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.940955"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.952214"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:02.996003"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.007467"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.052064"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.063182"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.107256"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.118995"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.163228"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.175158"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.219169"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.230645"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.309940"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.321196"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.365584"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.377618"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.422083"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.433992"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.479002"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.491024"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.537269"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.548590"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.594080"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.607393"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.694875"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.706713"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.752711"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.766179"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.812489"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:03.824987"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:04.003621"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:04.016776"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:04.075457"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:04.089003"
+  },
+  {
+    "lesson": "[planner-A] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:04.142882"
+  },
+  {
+    "lesson": "[planner-B] Policy updated to: CONTINUE",
+    "timestamp": "2026-01-17T09:52:04.154748"
+  }
+]
