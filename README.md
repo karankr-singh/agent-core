@@ -1,107 +1,256 @@
-Agent-Core
-Live link :- https://agent-core-g9i9cydg48fozkz6zw2zjg.streamlit.app/
+# 🤖 Agent-Core
 
-<img width="1364" height="599" alt="Screenshot 2026-01-17 155950" src="https://github.com/user-attachments/assets/50415f40-9982-4a02-a475-585abdb2ac05" />
+> A modular autonomous-agent research prototype focused on planning, tool execution, memory, self-critique, reputation, alignment, and observability.
 
-<img width="1358" height="594" alt="Screenshot 2026-01-17 160000" src="https://github.com/user-attachments/assets/65f40330-160c-4314-a5f6-7b9a03798258" />
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange?style=for-the-badge)](#project-status)
 
-Agent-Core
-*A personal, modular AI agent system — built to think, learn, and be observed.*
+**Live dashboard:** https://agent-core-g9i9cydg48fozkz6zw2zjg.streamlit.app/
 
----
-
-Why this project exists
-
-Most AI demos today are:
-- chatbots
-- prompt wrappers
-- black boxes
-
-I wanted something different.
-
-**Agent-Core** is my attempt to build an AI system that:
-- reasons step-by-step
-- remembers what matters
-- learns cautiously
-- follows safety boundaries
-- and lets humans *see what’s going on inside*
-
-This is not a product.
-It’s not a chatbot.
-It’s an **AI laboratory**.
+<img width="1364" height="599" alt="Agent-Core dashboard" src="https://github.com/user-attachments/assets/50415f40-9982-4a02-a475-585abdb2ac05" />
 
 ---
 
-What Agent-Core actually does
+## 🎯 Why Agent-Core?
 
-At its core, this system runs **autonomous goals** instead of conversations.
+Many agent demos stop at a prompt → response loop. Agent-Core explores what happens when an agent is treated more like a **system**: it maintains state, uses tools, evaluates outcomes, records lessons, and makes later decisions using accumulated context.
 
-Given a goal, the agent:
-1. Plans how to approach it  
-2. Executes steps using tools  
-3. Critiques its own output  
-4. Decides what’s worth remembering  
-5. Updates long-term knowledge  
-6. Exposes everything through a live dashboard  
+The project is intentionally experimental rather than a claim of AGI or a production autonomous system.
 
-All of this happens **without a chat UI** — intentionally.
+### What it explores
 
----
-
-Key ideas behind the system
-
-Memory, not prompts
-The agent has **three types of memory**:
-- **Short-term memory** → everything it thinks
-- **Long-term memory** → lessons it decides to keep
-- **Vector (semantic) memory** → insights worth embedding
-
-Only *high-value outcomes* become vector memories.
+- **Planning** — generate actionable next steps from a goal and context
+- **Multi-planner selection** — multiple planners propose actions and a voter selects a candidate
+- **Tool execution** — execute selected instructions through a tool registry
+- **Critique** — evaluate execution results against the current goal
+- **Memory** — maintain run history, long-term lessons, and semantic/vector memory
+- **Reputation** — reward or penalize planners based on outcomes
+- **Alignment** — validate goals before execution and before creating follow-up goals
+- **Freeze control** — gate meta-goal generation
+- **Scheduling** — optionally run due tasks and schedule generated goals
+- **Observability** — expose the system state through a live dashboard
 
 ---
 
-Reputation & self-critique
-Multiple planner agents compete and collaborate.
-A critic evaluates outcomes.
-Planners gain or lose **reputation** over time.
+## 🧠 System Overview
 
-Better planners get trusted more.
+```text
+                         ┌──────────────────────┐
+                         │       Goal / Task     │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                    ┌─────────────────────────────┐
+                    │       Planner Agents        │
+                    │  proposals + policy update  │
+                    └──────────────┬──────────────┘
+                                   │
+                                   ▼
+                         ┌──────────────────┐
+                         │  Voter / Selector │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │     Executor     │
+                         │  tools / sandbox │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │      Critic       │
+                         └────────┬─────────┘
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+                 ACCEPT                      FAILURE
+                    │                           │
+                    ▼                           ▼
+             Reward planner              Penalize planner
+                    │                           │
+                    └─────────────┬─────────────┘
+                                  │
+                                  ▼
+                   ┌─────────────────────────────┐
+                   │ Memory + Reputation + Logs  │
+                   └──────────────┬──────────────┘
+                                  │
+                                  ▼
+                         Dashboard / Observability
+```
+
+The main execution loop coordinates planners, voting, execution, critique, reputation updates, memory writes, alignment checks, and optional scheduled/meta-goal handling.
 
 ---
 
-Alignment & safety by design
-The agent operates under:
-- alignment rules
-- forbidden actions
-- a global **freeze switch**
+## 🔄 Execution Cycle
 
-This prevents runaway behavior and unsafe self-modification.
+For each agent run, the system broadly follows:
+
+1. **Receive a goal** or scheduled task.
+2. **Validate the goal** against alignment rules.
+3. **Generate proposals** from the available planners.
+4. **Select a proposal** using the voter.
+5. **Execute** the selected instruction or subtasks.
+6. **Critique the result** against the original goal.
+7. If accepted, **reward the planner** and persist successful execution patterns.
+8. If rejected, **penalize the planner**, store the failure pattern, and update planner policy.
+9. When enabled, generate and validate **follow-up/meta-goals** for later execution.
+
+The implementation currently caps the normal run loop at a configurable maximum number of steps (default: 6).
+
+---
+
+## 🧩 Core Components
+
+| Component | Responsibility |
+|---|---|
+| `agent.py` | Planning, tool selection, execution, and reflection for the core agent abstraction |
+| `loop.py` | Orchestrates the multi-agent execution cycle |
+| `critic.py` | Reviews execution outcomes |
+| `evaluator.py` | Evaluation logic used by the system |
+| `executor_agent.py` | Executes selected instructions |
+| `alignment.py` | Goal validation / alignment rules |
+| `freeze.py` | Controls whether meta-goals may be generated |
+| `llm.py` | LLM/embedding integration boundary |
+| `long_term_memory.py` | Persistent lesson storage |
+| `code_sandbox.py` | Code-execution sandbox component |
+| `scheduler.py` | Optional scheduled task handling |
+| `vector_memory.py` | Semantic memory storage/retrieval |
+
+The repository also contains persisted memory/state files used by the prototype.
 
 ---
 
-Observability over mystery
-Every decision is visible through a **live dashboard**:
-- current goal
-- reasoning traces
-- reputation scores
-- vector memory growth
-- tagged knowledge clusters
+## 🧠 Memory Architecture
 
-Nothing is hidden.
+Agent-Core separates memory by purpose:
+
+### Run memory
+Stores the current goal, history, plans, actions, and critic feedback for the active run.
+
+### Long-term memory
+Stores lessons from successful and unsuccessful executions so future planning can use previous experience.
+
+### Vector memory
+Stores semantic representations of useful execution patterns and insights, allowing future plans to retrieve related context.
+
+This gives the system a simple feedback loop:
+
+```text
+Experience → Critique → Lesson / Semantic Memory → Future Planning
+```
 
 ---
-What this project is *not*
 
-- ❌ Not a ChatGPT clone  
-- ❌ Not a SaaS product  
-- ❌ Not “AGI”  
+## 🛡️ Alignment & Safety Controls
 
-It **is**:
-- a research-grade agent architecture
-- a learning playground
-- a systems-thinking project
+The prototype includes explicit control points rather than treating autonomy as unrestricted:
 
-<img width="1361" height="630" alt="Screenshot 2026-01-17 160022" src="https://github.com/user-attachments/assets/7fa6f5ed-786b-4c6b-973c-5a07c47ac157" />
+- Goal validation before scheduled execution
+- Goal validation before generated meta-goals are accepted
+- A global freeze mechanism controlling meta-goal generation
+- Restricted tool selection through a tool registry
+- A separate code-sandbox component for code execution
 
-<img width="1320" height="597" alt="Screenshot 2026-01-17 160032" src="https://github.com/user-attachments/assets/ae21619a-9888-493f-af40-e142247c2f52" />
+These mechanisms are **prototype safeguards**, not a claim that the system is safe for unrestricted autonomous deployment.
 
+---
+
+## 👀 Observability
+
+The Streamlit dashboard is designed to make internal system state easier to inspect, including information such as:
+
+- Current goal and run state
+- Planner/reputation information
+- Execution history
+- Critic feedback
+- Memory growth and stored knowledge
+- Semantic-memory activity
+
+<img width="1358" height="594" alt="Agent-Core dashboard view" src="https://github.com/user-attachments/assets/65f40330-160c-4314-a5f6-7b9a03798258" />
+
+<img width="1361" height="630" alt="Agent-Core system view" src="https://github.com/user-attachments/assets/7fa6f5ed-786b-4c6b-973c-5a07c47ac157" />
+
+<img width="1320" height="597" alt="Agent-Core memory view" src="https://github.com/user-attachments/assets/ae21619a-9888-493f-af40-e142247c2f52" />
+
+---
+
+## ⚙️ LLM Integration
+
+`llm.py` is intentionally structured as an integration boundary for an external LLM/embedding provider. The current repository contains placeholder/fallback behavior rather than a complete provider integration.
+
+That means the project should be treated as an **agent architecture prototype**, not as a turnkey autonomous-agent package.
+
+---
+
+## 🚀 Running the Project
+
+The repository is currently an experimental codebase and does not ship with a populated `requirements.txt`. For local development, install the dependencies required by the modules you intend to run, then start the Streamlit dashboard using the repository's dashboard entry point.
+
+The hosted dashboard is available here:
+
+https://agent-core-g9i9cydg48fozkz6zw2zjg.streamlit.app/
+
+> **Note:** Because the LLM layer currently contains placeholder behavior, a full autonomous run may require wiring `llm.py` to the intended model provider first.
+
+---
+
+## 📸 Project Screenshots
+
+### Live system dashboard
+
+<img width="1364" height="599" alt="Agent-Core live dashboard" src="https://github.com/user-attachments/assets/50415f40-9982-4a02-a475-585abdb2ac05" />
+
+### Agent state and execution
+
+<img width="1358" height="594" alt="Agent-Core execution dashboard" src="https://github.com/user-attachments/assets/65f40330-160c-4314-a5f6-7b9a03798258" />
+
+---
+
+## 📌 Project Status
+
+**Research / experimental prototype**
+
+Implemented concepts include planning, proposal selection, execution, critique, reputation updates, persistent lessons, semantic-memory hooks, alignment checks, freeze control, scheduling hooks, and dashboard-oriented observability.
+
+Areas that still need production-level work include provider integration, dependency management, automated tests, stronger sandbox isolation, persistent database-backed storage, authentication, and robust failure handling.
+
+---
+
+## 🔭 Future Directions
+
+- [ ] Production-ready LLM provider adapters
+- [ ] Proper dependency locking and reproducible setup
+- [ ] Automated unit/integration tests
+- [ ] Stronger isolated code execution
+- [ ] Database-backed memory and event storage
+- [ ] Better evaluation benchmarks for agent performance
+- [ ] Richer tool ecosystem with explicit permissions
+- [ ] Improved dashboard metrics and run replay
+
+---
+
+## 💡 What This Project Demonstrates
+
+From a software-engineering perspective, Agent-Core demonstrates work across:
+
+- Agent orchestration and control flow
+- State and memory management
+- Multi-agent coordination
+- Evaluation and feedback loops
+- Tool interfaces
+- Safety and policy gates
+- Semantic retrieval concepts
+- Observability for autonomous workflows
+
+It is best viewed as a **systems-oriented AI research project** rather than a chatbot wrapper.
+
+---
+
+## 👤 Author
+
+**Karan Kumar Singh** — Developer & Researcher
+
+Built as an exploration of autonomous AI architectures, memory systems, feedback loops, and controllable agent behavior.
